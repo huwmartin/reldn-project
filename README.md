@@ -1,5 +1,7 @@
 # reldn-project
 
+My output from the [ReasonML London meetup Summer workshop](https://www.meetup.com/ReasonLDN/events/262474600/), slides for which can be found [here](https://docs.google.com/presentation/d/1wuAveSHslRfKShD6SiVdkz9OOyEfsto0nAQqmcjaun0/edit#slide=id.p).
+
 ## Run Project
 
 ```sh
